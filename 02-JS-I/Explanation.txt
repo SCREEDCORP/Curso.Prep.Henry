@@ -1,0 +1,44 @@
+Variables:
+
+una varible nos sirve para poder almacenar informacion dentro de una memoria.
+imagina que necesitas guardar tus juguetes dentro de una cajas pero tienes unos 
+juguetes de guerra y por otro lado peluches, entonces para no juntar los juguetes los
+almacenarias cada uno por separado en donde tendrias una caja para peluches  y una 
+para  juguetes de guerra de esta forma cada vez que tengas un peluche nuevo lo guardarias
+en su caja y  los juguetes de guerra  en su caja propia.
+
+
+strings :
+
+los string se definen  " entre comillas dobles  "     'o simples ' 
+esto es para poder saber que es un bloque de texto.
+
+
+
+funciones :
+
+Las funciones  son un conjunto de instrucciones de codigo  que calculan  un valor 
+o realizan alguna tarea   donde cuentas con un valor de entrada y una de salida .
+imagina que tienes una  llave  que puede abrir todas las puertas de tu hogar , 
+las funciones son similares una vez las declares las puedes usar las veces que quieras
+dentro de tu codigo.  
+existen 3 formas para construir una funcion, la anatomia de una funcion comienza
+con la palabra clave function luego le asignas el nombre de la funcion  de 
+preferencia debe  describir lo que hace tu funcion luego entre parentesis 
+para que puedas asignarle  los parametros a tu funcion  y luego dentro de 
+corchetes le defines las instrucciones. Una vez declarada tu funcion, podemos usar 
+variables dentro de tu funcion, recuerda que puedes agregar mas de un argumento solo debes 
+agregar comas entre ellos.
+Return,  imagina que estas en la escuela, en el horario de clase no puedes salir del salon pero si 
+pides permiso para ir al baño  se te permitira salir , con  la declaracion return sucede lo mismo 
+con esto podemos acceder a los datos que queramos de nuestra funcion, debes tener en cuenta que cuando
+declaras un return tu codigo dejara lo que este haciendo para ejecutar la funcion.
+
+
+if: es literalmente decir Si,  nos sirve para condicionar nuestro codigo  y ejercutar lo que esta dentro 
+de nuestro codigo  siempre y cuando se cumpla nuestra condicion.
+
+Valores boleanos : estos valores son true o false ,  con estos valores podemos definir que hara 
+nuestro codigo codigo , segun la respuesta que nos de nuestro if. 
+
+
